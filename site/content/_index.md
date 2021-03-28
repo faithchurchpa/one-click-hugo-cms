@@ -11,15 +11,12 @@ blurb:
 
 
     Most importantly, our faith is in the Gospel of Jesus Christ. The gospel is: we are more sinful and lost than we ever dared admit, but through relationship with Jesus, we are more accepted and loved than we ever dared hope. This Gospel is wisdom from God because it frees us from the tyranny of self-protection, making us honest about ourselves, others and the world, and enabling real change to begin in our lives.
-
-
-    Therefore, our faith unites us together in a community of sinners in process together, which is the church. Together, we experience the Spirit of God working through and with one another, spurring us on to love and good deeds, to the glory of God alone.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Soli Deo Gloria
+  text: Therefore, our faith unites us together in a community of sinners in
+    process together, which is the church. Together, we experience the Spirit of
+    God working through and with one another, spurring us on to love and good
+    deeds, to the glory of God alone.
 products:
   - image: https://faithchurchpa.org/wp-content/uploads/2014/10/Worship-Team.jpg
     text: Music is one of God’s greatest gifts to His people – a powerful vehicle
